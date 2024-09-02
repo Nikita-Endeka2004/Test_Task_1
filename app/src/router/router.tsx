@@ -5,7 +5,7 @@ import Home, { userLoader } from "../pages/Home";
 
 export const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/Test_Task_1/',
     element: <Layout/>,
     errorElement: <ErrorPage/>,
     children: [
